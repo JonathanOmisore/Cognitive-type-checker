@@ -59,7 +59,7 @@ dm.add(actr.chunkstring(string="""
     term1type natural_number
     term2type operator
     term3type natural_number
-    expressiontype int
+    expressiontype natural_number
     """))
 dm.add(actr.chunkstring(string="""
     isa expressiontype
